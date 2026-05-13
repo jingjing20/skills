@@ -131,7 +131,7 @@ output/<小说名>/
 
 ## 参考资料
 
-- `references/female-readership.md` 女频投流核心读点手册（爽点 / 男主三件套 / 女主反差感 / 三锚点 / 暧昧代偿）
+- `references/female-readership.md` 女频投流核心读点手册（爽点 / 男主四件套 / 女主反差感 / 三锚点 / 暧昧代偿）
 - `references/hooks-and-pacing.md` 章末卡点套路库 / 前 500 字开篇模板 / 节奏工程
 - `references/plot-structures.md` 四段式结构 / 钩子手法结构 / 伏笔控制
 - `references/prompt-guide.md` 提示词补全指南 / 爽点池设计 / 张力池设计 / 三锚点角色档案
