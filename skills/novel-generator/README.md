@@ -135,8 +135,9 @@ output/<小说名>/
 - `references/hooks-and-pacing.md` 章末卡点套路库 / 前 500 字开篇模板 / 节奏工程
 - `references/plot-structures.md` 四段式结构 / 钩子手法结构 / 伏笔控制
 - `references/prompt-guide.md` 提示词补全指南 / 爽点池设计 / 张力池设计 / 三锚点角色档案
-- `references/chemistry-guide.md` 暧昧张力与软色情写作指南（五级递进 / 场景模板 / 感官技巧 / 中断技巧）
-- `references/examples.md` 完整示例集
+- `references/chemistry-guide.md` 暧昧张力与欲感写作指南（递进 / 场景模板 / 感官技巧 / 中断技巧）
+- `references/prose-style-guide.md` 真人语感、去 AI 腔重写
+- `references/failure-patterns.md` 常见失败模式
 - `assets/CHAPTER-TEMPLATE.md` 章节模板（含开局章 / 付费节点章 / 转折章 / 火葬场章 / 结局章）
 
 ## 许可证
